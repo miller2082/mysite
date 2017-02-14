@@ -28,15 +28,6 @@ class Choice(models.Model):
 
 # The following are useful commands on objects:
 """
-Classes:
-
-ForeignKey
-Fields:
-DateTimeField
-CharField
-IntegerField
-
-Methods:
 object.all()
 .count()
 .create()
